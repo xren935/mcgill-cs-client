@@ -13,8 +13,7 @@ node_modules
 debug.log*
 *.log
 # production
-/build
-build
+
 
 # misc
 .DS_Store
